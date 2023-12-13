@@ -1,7 +1,8 @@
 # Praktikum Pengantar Pemrograman
 
-<h1> Nama: Davina Alya Syakirah </h1>
-<h1> NIM: 231031054 </h1>
-<h1> Prodi: Sistem Informasi B </h1>
+<div> Nama: Davina Alya Syakirah </div>
+<div> NIM: 231031054 </div>
+<div> Prodi: Sistem Informasi B </div>
 
 * Praktikum 1: Pengenalan Variabel 'praktikum-b1.py'
+* Praktikum 1: Operator 'praktikum-b2.py'
