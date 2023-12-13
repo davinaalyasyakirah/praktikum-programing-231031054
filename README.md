@@ -1,4 +1,4 @@
-# praktikum pengantar pemrograman
+# Praktikum Pengantar Pemrograman
 
 <h1> Nama: Davina Alya Syakirah </h1>
 <h1> NIM: 231031054 </h1>
